@@ -1,1 +1,2 @@
  pytest -v -s -n=auto --html=Html_reports\my_report_new_jan_2026.html
+ pytest -n=auto --alluredir=AllureReports
